@@ -1,0 +1,31 @@
+---
+title: Test post
+author: ''
+date: '2020-12-04'
+slug: test-post
+categories: []
+tags: []
+description: ''
+---
+
+#Heading of my post 
+<center>
+![](/post/2020-12-04-test-post_files/785C8A1A-8DF5-406C-A01E-BCB5A5432FAF.jpg)(width=20%)
+
+
+content of my post 
+
+##subheading 
+
+more content
+
+```{R}
+quakes <- quakes
+```
+
+```{python}
+r.quakes.mag.mean()
+
+```
+
+

@@ -1,0 +1,13 @@
+---
+title: "Resume"
+output: html_document
+hidedate: true
+hiderelated: true
+hidediscus: true
+---
+
+<center>
+<object data="/resume.pdf" type="application/pdf" >
+<embed src="/resume.pdf" type="application/pdf" style="min-height:100vh;width:100%" />
+</object>
+</center>
