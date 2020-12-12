@@ -6,7 +6,17 @@
     <description>Recent content in Posts on The Roach Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slithery Slithery Python </title>
+      <link>/post/2020/12/10/slithery-slithery-python/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/12/10/slithery-slithery-python/</guid>
+      <description>Python: Snake or Code?
+  When you first hear the word python, you think of a sneaky snake trying to crawl into your home and cause chaos. Horrible! But fortuntely, python also refers to a coding language that can interact with other coding language to help build websites and analyze data, which is what we will be talking about here! So you can stop squirming and keep on reading!</description>
+    </item>
+    
     <item>
       <title>Test post</title>
       <link>/post/2020/12/04/test-post/</link>

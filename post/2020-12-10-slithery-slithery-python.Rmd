@@ -1,0 +1,48 @@
+---
+title: 'Slithery Slithery Python '
+author: 'Richa Sharma '
+date: '2020-12-10'
+slug: slithery-slithery-python
+categories: []
+tags: []
+description: ''
+---
+<center>
+![Python: Snake or Code?](/post/2020-12-10-slithery-slithery-python_files/close-up-of-a-snake-with-a-laptop-X2KFDN.png){width=300px height=200px} 
+
+</center>
+
+When you first hear the word python, you think of a sneaky snake trying to crawl into your home and cause chaos. Horrible! But fortuntely, python also refers to a coding language that can interact with other coding language to help build websites and analyze data, which is what we will be talking about here! So you can stop squirming and keep on reading! 
+
+This year in our computational biology class, we did a lot of coding in R Studio and Python. Both coding langauges are great, but each can be used best in different situations. R is better for introducing coding to beginners as it easier to wrap your head around and work with, although to do many functions requires multiple steps and more code. Python is a little more sleek and popular within the coding community, and is an easier transition when you have mastered R first. Let's look at some functions we can do in Python. 
+
+Python can be used as a dictionary where you can add relevant information about a topic in a collection of key:value pairs. Lets look at this in the context of Greys Anatomy's Patrick Dempsey as Derek Shepherd. 
+
+```{python}
+drshepherd_dict = {
+'name' : ['Derek Shepherd', 'McSteamy'],
+'occupation' : 'Neurosurgeon',
+'hobbies' : ['ferry boat rides', 'Alzheimer research', 'fish'],
+'wife' : 'Meredith Grey',
+'status' : 'dead'
+}
+
+print(drshepherd_dict.values())
+print(drshepherd_dict['name'])
+
+```
+You can also create a string of words and rearrange them in different ways.
+
+```{python}
+first = "Derek"
+last = "Shepherd"
+nickname = "McDreamy"
+
+first + ' '+ nickname + ' ' + last
+
+last[0]+first[1:]+ ' ' +first[0]+last[1:]
+
+```
+Super cool! 
+
+Python and R Studio can also talk to each other using reticulate, which is super awesome and convenient! Let's take a look at how that works. 
